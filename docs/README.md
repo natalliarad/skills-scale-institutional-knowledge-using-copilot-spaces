@@ -4,6 +4,8 @@
 This README indexes and introduces OctoAcme's project management process documents stored in `docs/`. Use it as the central hub for onboarding, reference, and as the single source of truth for project status and process artifacts.
 
 ## Linked Documents
+
+### Core Process Documents
 - [Project Management Overview](octoacme-project-management-overview.md)
 - [Project Initiation](octoacme-project-initiation.md)
 - [Project Planning](octoacme-project-planning.md)
@@ -12,6 +14,12 @@ This README indexes and introduces OctoAcme's project management process documen
 - [Release and Deployment](octoacme-release-and-deployment.md)
 - [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](octoacme-roles-and-personas.md)
+
+### Templates and Checklists
+Use these templates to standardize documentation and ensure consistency across roles and processes:
+- [Role Description Template](templates/role-description-template.md) – Standardized format for documenting roles and personas
+- [Stakeholder Review Checklist](templates/stakeholder-review-checklist.md) – Checklist for updating process docs or introducing new roles
+- [Change Management Checklist](templates/change-management-checklist.md) – Guide for assessing impact, communications, training, and rollback plans
 
 ## OctoAcme Project Management Summary
 OctoAcme runs projects with an iterative, customer-first framework that emphasizes clear ownership, measurable outcomes, and small, testable deliveries. Projects follow a defined lifecycle—initiation, planning, execution, release, and retrospective—backed by core artifacts like a Project One-pager/charter, roadmap and release plan, prioritized backlog, acceptance criteria / Definition of Done, a Risk Register, and retrospective action items. Decision gates ensure initiatives only move from initiation to planning when success metrics, stakeholder alignment, and team availability are confirmed.
